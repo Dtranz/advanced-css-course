@@ -69,3 +69,10 @@
     width: calc((100% - (#{$gutter-horizontal} * 2)) / 3);
   }
 }
+
+.section-stories {
+  padding: 15rem 0;
+  background-color: $color-grey-light-1;
+}
+
+
